@@ -1,0 +1,7 @@
+.node_input:focus,
+.node_input {
+  width: 100%;
+  background: none;
+  border: none;
+  outline: none;
+}

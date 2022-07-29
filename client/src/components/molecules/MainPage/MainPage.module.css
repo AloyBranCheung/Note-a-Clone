@@ -1,0 +1,15 @@
+.main {
+  display: flex;
+  height: 80vh;
+  background-color: red;
+  align-content: center;
+  justify-content: center;
+  padding: 0 10%;
+}
+
+.main_text {
+  background-color: green;
+  height: 100%;
+  width: 100vw;
+  padding: 2% 5%;
+}
