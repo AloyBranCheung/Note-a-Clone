@@ -1,0 +1,12 @@
+.container {
+  background: rgb(236, 238, 240);
+  border: 1px solid black;
+  display: flex;
+  justify-content: space-between;
+  position: absolute;
+  height: 50vw;
+  width: 300px;
+}
+.containerHidden {
+  display: none;
+}
