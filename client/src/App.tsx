@@ -1,11 +1,11 @@
-import React from 'react';
-import Layout from './components/layout'
+import "./styles/global.css";
+import Layout from "./components/layout";
 
 function App() {
   return (
-    <div className="App">
+    <div>
       <Layout>
-        <div>Hello Wolrd</div>
+        <div>Hello World</div>
       </Layout>
     </div>
   );
