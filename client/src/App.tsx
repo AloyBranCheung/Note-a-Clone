@@ -1,11 +1,12 @@
 import "./styles/global.css";
 import Layout from "./components/layout";
+import MainPage from "./components/molecules/MainPage/MainPage";
 
 function App() {
   return (
     <div>
       <Layout>
-        <div>Hello World</div>
+        <MainPage />
       </Layout>
     </div>
   );
